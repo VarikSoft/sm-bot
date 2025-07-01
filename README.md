@@ -89,3 +89,5 @@ TOKEN=your_real_bot_token_here
 - `/remove_channels` – Remove channels by template (supports if filters) or clear a category
 - `/clone_category` – Clone a category’s structure (channels + overwrites) via template
 - `/gui_create` – Open a modal form to interactively create channels
+
+*Feel free to contribute or open issues!*
