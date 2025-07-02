@@ -90,4 +90,4 @@ TOKEN=your_real_bot_token_here
 - `/clone_category` – Clone a category’s structure (channels + overwrites) via template
 - `/gui_create` – Open a modal form to interactively create channels
 
-*Feel free to contribute or open issues!*
+*Feel free to contribute or open issues!!!*
